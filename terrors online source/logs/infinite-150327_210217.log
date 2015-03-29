@@ -1,0 +1,36 @@
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x18D02878>}
+__handleAvatarChooserDone: 100000004, 'Whistlehopper', ('rll', 'ms', 'l', 'm', 26, 0, 26, 26, 11, 10, 0, 10, 6, 9), 1
+0
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/halloween_props_storage_TT.pdna
+Reading DNA file... phase_4/dna/halloween_props_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Battle Event localtoon-battle-event-3
+frame rate: 68.9 fps|0.011d|23 avs||322|324||0x1002|0x6779|411.5MB|407.9MB|8066.1MB|405|nt.2.6.1|2.701,2.701|4,4 cpus|OpenGL
+frame rate: 92.6 fps|0.006d|4 avs||622|624||0x1002|0x6779|421.8MB|419.1MB|8066.1MB|411|nt.2.6.1|2.701,2.701|4,4 cpus|OpenGL
+Battle Event localtoon-battle-event-10
+### newVec3 =  LVector3f(-2, 11.3, 1.5)
+### newVec3 =  LVector3f(-2, 11.3, 0)
+### newVec3 =  LVector3f(-2, 11.3, 0.375)
+### newVec3 =  LVector3f(-2, 11.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+frame rate: 49.0 fps|0.008d|16 avs||922|924||0x1002|0x6779|432.4MB|429.6MB|8066.1MB|415|nt.2.6.1|2.701,2.701|4,4 cpus|OpenGL

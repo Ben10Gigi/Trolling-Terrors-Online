@@ -1,0 +1,22 @@
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\runpy.py", line 162, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "C:\Panda3D-1.9.0\python\lib\runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "C:\Users\Dennis\Desktop\tto summer\terrors online\toontown\toonbase\ClientStart.py", line 140, in <module>
+    from toontown.distributed import ToontownClientRepository
+  File "toontown\distributed\ToontownClientRepository.py", line 52, in <module>
+    import PlayGame
+  File "toontown\distributed\PlayGame.py", line 11, in <module>
+    from toontown.hood import DDHood
+  File "toontown\hood\DDHood.py", line 35
+    self.underwaterColor = Vec4(color['r'], color['g'], color['b'], color['a'])
+    ^
+IndentationError: unexpected indent

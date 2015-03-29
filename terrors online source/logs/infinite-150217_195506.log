@@ -1,0 +1,29 @@
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+Preloading suits...
+Preloading Toon heads...
+Preloading avatars...
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x158AE080>}
+__handleAvatarChooserDone: 100000001, 'Dizzy Picklewig', ('rls', 'ss', 's', 'm', 12, 0, 12, 12, 19, 8, 13, 8, 5, 0), 1
+0
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_4/dna/storage_TT.pdna
+Reading DNA file... phase_4/dna/halloween_props_storage_TT.pdna
+Reading DNA file... phase_4/dna/halloween_props_storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/storage_TT_sz.pdna
+Reading DNA file... phase_4/dna/toontown_central_sz.pdna
+:02-17-2015 19:55:46: setTalk: 100000001, 'Dizzy Picklewig', 'fuk'
+Reading DNA file... phase_4/dna/storage.pdna
+Reading DNA file... phase_3.5/dna/storage_interior.pdna
+Reading DNA file... phase_5.5/dna/storage_estate.pdna
+Reading DNA file... phase_5.5/dna/halloween_props_storage_estate.pdna
+Reading DNA file... phase_5.5/dna/estate_1.pdna
+:02-17-2015 19:55:57: setTalk: 100000001, 'Dizzy Picklewig', 'ok~'
+:02-17-2015 19:55:57: setTalk: 100000001, 'Dizzy Picklewig', 'run'
+adjusting item index -1
+exiting due to lack of items
+:02-17-2015 19:56:17: setTalk: 100000001, 'Dizzy Picklewig', 'whyeet'
+:02-17-2015 19:57:08: setTalk: 100000001, 'Dizzy Picklewig', 'o.o'
