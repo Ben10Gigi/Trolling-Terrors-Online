@@ -34,8 +34,7 @@ want-resistance-restock #t
 
 # Optional:
 want-yin-yang #t
-want-halloween #t
-active-holidays 26, 27, 13
+want-halloween #f
 
 # Developer options:
 show-population #t

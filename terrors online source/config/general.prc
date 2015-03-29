@@ -122,8 +122,7 @@ want-yin-yang #f
 # Developer options:
 want-dev #f
 want-pstats 0
-want-halloween #t
-active-holidays 26, 27, 13
+want-halloween #f
 
 # Temporary:
 smooth-lag 0.4
